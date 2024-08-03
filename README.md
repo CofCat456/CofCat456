@@ -1,6 +1,8 @@
-## 嗨！我是 CofCat 🧑🏻‍💻
+### Hi I'm CofCat 👋
 
-一名剛退伍的大學畢業生，現在是 [ARIA](https://www.cakeresume.com/companies/aira?locale=zh-TW) 的 `Software Engineer`。
+A web developer based in Taiwan.
+<br />
+Founder of Food Universe.
 
 ## 🔭 Tech stack
 
